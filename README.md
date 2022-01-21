@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Xprogrammer777, I code C#, C, PHP, JS and a little Python.
+I do some ethical hacking.
 
 <!--
 **Xprogrammer777/Xprogrammer777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
